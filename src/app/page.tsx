@@ -199,7 +199,7 @@ export default async function Home() {
               About InsRealm
             </h1>
             <p className="mt-6 text-xl text-neutral-600">
-              InsRealm Technology Co., Ltd. specializes in advanced real-time simulation technology. Our core technology originates from the Future Power Lab at Imperial College London. With nearly a decade of innovation and collaboration with top universities, research institutes, and Fortune 500 companies, we have launched several products that achieve world-leading performance.
+              InsRealm Technology Co., Ltd. specializes in real-time simulation technology. Our core technology originates from the Future Power Lab at Imperial College London. With nearly a decade of innovation and collaboration with top universities, research institutes, and Fortune 500 companies, we have launched several products that achieve world-leading performance.
             </p>
             <Link href='/about'>
               <Button className=''>
