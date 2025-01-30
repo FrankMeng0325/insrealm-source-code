@@ -30,19 +30,5 @@ export function Offices({
   ...props
 }: React.ComponentPropsWithoutRef<'ul'> & { invert?: boolean }) {
   return (
-    <ul role="list" {...props}>
-      <li>
-        <Office name=" " invert={invert}>
-           
-        </Office>
-      </li>
-      {/* <li>
-        <Office name="Billund" invert={invert}>
-          24 Lego Allé
-          <br />
-          7190, Billund, Denmark
-        </Office>
-      </li> */}
-    </ul>
   )
 }
