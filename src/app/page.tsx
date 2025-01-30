@@ -199,7 +199,7 @@ export default async function Home() {
               About InsRealm
             </h1>
             <p className="mt-6 text-xl text-neutral-600">
-              InsRealm Technology Co., Ltd. specializes in advanced real-time simulation technology. Our core team members are from the Smart Energy Lab at Imperial College London. With nearly a decade of innovation and collaboration with top universities, research institutes, and Fortune 500 companies, we have launched several products that achieve world-leading performance.
+            InsRealm Technology Co., Ltd. specializes in real-time simulation technology. Our core R&D team originates from the Smart Energy Lab at Imperial College London. We achieved world-leading performance of nanosecond timestep and ultimate convergence via our unique symplectic FPGA solver. 
             </p>
             <Link href='/about'>
               <Button className=''>
