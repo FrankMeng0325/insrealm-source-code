@@ -18,15 +18,6 @@ export function ContactSection() {
               </Button>
             </div>
             <div className="mt-10 border-t border-white/10 pt-10 flex md:flex-row flex-col items-start justify-center gap-8">
-              <div className=' flex flex-col items-start justify-center gap-2'>
-                <h3 className="font-display text-base font-semibold text-white">
-                  Our offices
-                </h3>
-                <Offices
-                  invert
-                  className="grid grid-cols-1 gap-8 sm:grid-cols-2"
-                />
-              </div>
               <div className=' flex flex-col text-white items-start justify-center gap-2'>
                 <h3 className="text-base text-nowrap font-semibold ">
                   Email
